@@ -3,7 +3,7 @@
 """
 Created on Wed Nov  8 17:44:49 2017
 
-@author: crystalyoung (with Chris and Hu)
+@author: crystalyoung, Chris, and Hu
 """
 
 airmass = 1/cos(90-altitude)
